@@ -64,4 +64,3 @@ Here is a professionally formatted, "attractive" **README.md** for your GitHub r
 
 ---
 
-### Would you like me to generate the **Installation/Setup** instructions to add to this README as well?
