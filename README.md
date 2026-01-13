@@ -1,5 +1,3 @@
-Here is a professionally formatted, "attractive" **README.md** for your GitHub repository. It captures the spirit of your **Smart House Monitoring System** while maintaining the sleek style of projects like PyFingerLED.
-
 ---
 
 # 🏠 SmartHouse-STM32: Intelligent Home Automation
